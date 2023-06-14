@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# UTICA PC
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Página web para tienda de informática
 
 ## Available Scripts
 
